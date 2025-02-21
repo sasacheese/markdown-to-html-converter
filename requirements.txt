@@ -1,0 +1,4 @@
+importlib_metadata==8.6.1
+Markdown==3.7
+pathlib==1.0.1
+zipp==3.21.0
